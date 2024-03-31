@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp13", "ConsoleApp13\ConsoleApp13.csproj", "{6DDE7B6D-B11A-4D82-83FD-3653B8AB8CF6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Boss Az", "Boss Az", "{2784341B-B409-4DE5-9CD6-5DD8C2466BCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DDE7B6D-B11A-4D82-83FD-3653B8AB8CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DDE7B6D-B11A-4D82-83FD-3653B8AB8CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DDE7B6D-B11A-4D82-83FD-3653B8AB8CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DDE7B6D-B11A-4D82-83FD-3653B8AB8CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6DDE7B6D-B11A-4D82-83FD-3653B8AB8CF6} = {2784341B-B409-4DE5-9CD6-5DD8C2466BCA}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9E04A8A8-9AE0-45D0-A66D-BCF6DC782217}
+	EndGlobalSection
+EndGlobal
